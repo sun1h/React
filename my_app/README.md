@@ -1,7 +1,7 @@
 # create-react-app
-npx create-react-app my_app
-cd my_app
-npm start
+npx create-react-app my_app <br>
+cd my_app <br>
+npm start <br>
 
 # Getting Started with Create React App
 
